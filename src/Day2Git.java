@@ -14,7 +14,9 @@ public class Day2Git {
          Not : Bu iki komutu tek seferde kullandıktan sonra ikinci commitlerim için sadece git push kullanırız.
 
         Not  git log --oneline  --> commitlerimdeki yani versiyonlarımdaki durumu gösterir...
+         System.out.println("Github ı da ogrendim");
+        6) git pull 
          */
-        System.out.println("Github ı da ogrendim");
+       
     }
 }
